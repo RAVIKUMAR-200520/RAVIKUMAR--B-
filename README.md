@@ -1,2 +1,38 @@
-# RAVIKUMAR--B-
-Flutter-based interactive 2-player mobile game with multi-screen navigation and real-time UI updates.
+# Hi 👋 I'm Ravikumar B
+
+## 🚀 About Me
+Flutter Developer pursuing B.E. in Electronics and Communication Engineering.
+I build interactive and responsive mobile applications using Flutter and Dart.
+
+---
+
+## 🛠 Skills
+- Flutter
+- Dart
+- State Management (setState, GetX)
+- REST API Integration (HTTP Methods)
+- GetX Navigation 
+- Responsive UI Design
+- Material Design
+
+---
+
+## 📱 Projects
+
+### 🎮 2-Player Fingertip Game
+Interactive 2-player mobile game built using Flutter.
+- Multi-screen navigation
+- Real-time UI updates
+- APK built and tested on real device
+
+### 💬 WhatsApp UI Clone
+WhatsApp-inspired chat interface (UI).
+- Floating Action Button
+- Responsive layouts
+- Clean Material Design
+
+---
+
+## 📫 Contact
+- Email: ravikumarbaskaran005@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ravikumar-b-4b8031363
