@@ -15,7 +15,7 @@ I build interactive and responsive mobile applications using Flutter and Dart.
 - Dart
 - State Management (setState, GetX)
 - REST API Integration (HTTP Methods)
-- GetX Navigation (Get.to, Get.back)
+- GetX Navigation 
 - Responsive UI Design
 - Material Design
 ---
@@ -32,3 +32,4 @@ Interactive 2-player mobile game built using Flutter.
 ## 📫 Contact
 - Email: ravikumarbaskaran005@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ravikumar-b-4b8031363
+
